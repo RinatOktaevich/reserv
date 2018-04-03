@@ -1,0 +1,17 @@
+Sorting Algorithms 
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge Sort
+
+ Searching Algorithms
+- Liear Search
+- Binary Search
+
+String Reverse Algorithm
+
+Hashing algorithm (Caesar cipher)
+
+Fibonacci sequence
+
+Factorial Algorithm

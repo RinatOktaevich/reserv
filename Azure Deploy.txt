@@ -1,0 +1,19 @@
+{
+  "additionalProperties": {},
+  "id": null,
+  "kind": null,
+  "name": "web",
+  "publishingPassword": null,
+  "publishingPasswordHash": null,
+  "publishingPasswordHashSalt": null,
+  "publishingUserName": "RinatOktaevich",
+  "type": "Microsoft.Web/publishingUsers/web",
+  "userName": null
+}
+
+
+az webapp deployment source config-local-git --name Skitel --resource-group Skitel
+
+{
+  "url": "https://RinatOktaevich@skitel.scm.azurewebsites.net/Skitel.git"
+}
